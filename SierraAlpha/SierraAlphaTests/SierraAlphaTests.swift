@@ -1,15 +1,15 @@
 //
-//  Sierra_AlphaTests.swift
-//  Sierra-AlphaTests
+//  SierraAlphaTests.swift
+//  SierraAlphaTests
 //
-//  Created by Maurus Kühne on 22.06.17.
-//  Copyright © 2017 Maurus Kühne. All rights reserved.
+//  Created by Patrick Borgogno on 22.06.17.
+//  Copyright © 2017 Patrick Borgogno. All rights reserved.
 //
 
 import XCTest
-@testable import Sierra_Alpha
+@testable import SierraAlpha
 
-class Sierra_AlphaTests: XCTestCase {
+class SierraAlphaTests: XCTestCase {
     
     override func setUp() {
         super.setUp()
